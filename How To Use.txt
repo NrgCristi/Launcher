@@ -1,0 +1,19 @@
+1. Download EasyInstaller from here: https://github.com/Kyiro/Fortnite-ManifestsArchive/releases/download/1.2/EasyInstaller.exe
+2. Open It And then type 106 to download season 13
+3. Make a new folder once you typed 106 in easyinstaller
+4. then open that folder
+5. then right click on the folder you just created and then click copy address as text
+6. then pate it in easyinstaller and then hit enter on your keyboard
+7. wait for season 13 to download (make sure you don't close easyinstaller while season 13 is downloading)
+8. once you downloaded season 13 right click on the Launcher.bat folder and then click copy
+9. then go to this exact location: \FortniteGame\Binaries\Win64 and then place the launcher.bat there
+10. open the launcher.bat file with notepad or something
+11. then run the Get Auth Code.bat file
+12. then copy the 32 digts text before the //fnauth/?code= text (make sure you don't copy the "," text or this will not work at all)
+13. go back to the Launcher.bat file in notepad
+14. replace the your authorization code with the code you just copied
+15. then click file and save to save the modifications
+16. then double click on the Launcher.bat file and fortnite should start and you should be logged in
+17. Enjoy
+
+NOTE: I DON'T KNOW IF THIS IS BANNABLE AT ALL BUT I RECOMMEND YOU TO MAKE A NEW ACCOUNT IF YOU THINK THAT YOU CAN GET BANNED BY JUST USING THIS
